@@ -22,3 +22,4 @@ const testLinks: Link[] = [
 ];
 
 console.log(transformLinks(testLinks));
+console.log(transformLinks(testLinks));
